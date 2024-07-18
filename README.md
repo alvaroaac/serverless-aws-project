@@ -1,4 +1,7 @@
-# Welcome to your CDK TypeScript project
+# serverless-aws-project
+A basic project to practice some AWS CDK fundamentals
+
+This project follows the CDK Workshop available at: https://cdkworkshop.com/20-typescript/20-create-project.html
 
 This is a blank project for CDK development with TypeScript.
 
